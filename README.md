@@ -13,4 +13,4 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
 </p>
 
 <h3>Contact:</h3>
-<a href="https://invisioncommunity.com/profile/580858-axendev/">Invisioncommunity</a>
+<a href="https://invisioncommunity.com/profile/580858-axendev/" target="blank">Invisioncommunity</a>
