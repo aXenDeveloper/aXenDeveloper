@@ -1,8 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Maciej Piotr Balcerzak. I'm form Poland :D
 
-<h3>I code with:</h3>
+## My projects:
+- <a href="https://github.com/aXenDeveloper/weather-react">(React) Weather app</a> - In progress
+
+### Themes for IPS Community Suite (Paid):
+- <a href="https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/">[Dark / Light] Fluent Design Theme Edition</a>
+
+### Plugins for IPS Community Suite (Paid):
+- <a href="https://invisioncommunity.com/files/file/9490-axen-article-system-in-pages/">(aXen) Article System in Pages</a>
+
+### Plugins for IPS Community Suite (Free):
+- <a href="https://github.com/aXenDeveloper/ips-secondary-groups-indicator">(aXen) Secondary Groups Indicator</a>
+- <a href="https://github.com/aXenDeveloper/ips-fontawesome5">(aXen) Font Awesome 5 in IPS</a>
+- <a href="https://github.com/aXenDeveloper/ips-group-formatting-in-mention">(aXen) Group formatting in mention</a>
+- <a href="https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus">(aXen) Number of entries Chatbox+</a>
+- <a href="https://github.com/aXenDeveloper/ips-administrative-bar">(aXen) Administrative bar</a>
+
+
+## I code with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -11,6 +28,3 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-
-<h3>Contact:</h3>
-<a href="https://invisioncommunity.com/profile/580858-axendev/" target="blank">Invisioncommunity</a>
