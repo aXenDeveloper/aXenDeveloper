@@ -18,6 +18,10 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
 - <a href="https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus">(aXen) Number of entries Chatbox+</a>
 - <a href="https://github.com/aXenDeveloper/ips-administrative-bar">(aXen) Administrative bar</a>
 
+### Translation to Polish language for IPS Community Suite (Free):
+- <a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">(BIM) Chatbox+</a>
+- (Translation assistance) <a href="https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/">Invision Community</a>
+
 
 ## I code with:
 <p>
