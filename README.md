@@ -15,6 +15,7 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
 - <a href="https://github.com/aXenDeveloper/ips-secondary-groups-indicator">(aXen) Secondary Groups Indicator</a>
 - <a href="https://github.com/aXenDeveloper/ips-fontawesome5">(aXen) Font Awesome 5 in IPS</a>
 - <a href="https://github.com/aXenDeveloper/ips-group-formatting-in-mention">(aXen) Group formatting in mention</a>
+- <a href="https://github.com/aXenDeveloper/ips-number-of-entries-chatbox">(aXen) Number of entries Chatbox Free</a>
 - <a href="https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus">(aXen) Number of entries Chatbox+</a>
 - <a href="https://github.com/aXenDeveloper/ips-administrative-bar">(aXen) Administrative bar</a>
 
