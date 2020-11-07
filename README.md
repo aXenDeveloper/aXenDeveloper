@@ -5,6 +5,7 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
 ## My projects:
 - <a href="https://github.com/aXenDeveloper/react-weather">(React) Weather app</a> - In progress
 - <a href="https://github.com/aXenDeveloper/react-fortnite">(React) Fortnite app</a> - In progress
+- <a href="https://github.com/aXenDeveloper/react-songs">(React) Songs app</a> - In progress
 
 ### Themes for IPS Community Suite (Paid):
 - <a href="https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/">[Dark / Light] Fluent Design Theme Edition</a>
