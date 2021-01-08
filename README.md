@@ -3,6 +3,7 @@
 My name is Maciej Piotr Balcerzak. I'm form Poland :D
 
 ## My projects:
+- <a href="https://github.com/aXenDeveloper/express-react-recipes">(Express / React) Recipes app</a> - In progress
 - <a href="https://github.com/aXenDeveloper/react-weather">(React) Weather app</a> - In progress
 - <a href="https://github.com/aXenDeveloper/react-fortnite">(React) Fortnite app</a> - In progress
 
