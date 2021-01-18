@@ -23,6 +23,7 @@ My name is Maciej Piotr Balcerzak. I'm form Poland :D
 
 ### Translation to Polish language for IPS Community Suite (Free):
 - <a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">(BIM) Chatbox+</a>
+- <a href="https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member">[BNS] CJ Duplicate Member Logger</a>
 - (Translation assistance) <a href="https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/">Invision Community</a>
 
 
