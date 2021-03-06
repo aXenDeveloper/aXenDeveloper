@@ -17,12 +17,13 @@
 - <a href="https://github.com/aXenDeveloper/ips-administrative-bar">(aXen) Administrative bar</a>
 
 ### Applications for IPS Community Suite (Free):
-- <a href="https://github.com/aXenDeveloper/ips-app-serverlist">(aXen) Server List</a>
+- <a href="https://github.com/aXenDeveloper/ips-app-advanced-serverlist">(aXen) Advanced Server List</a>
 
 ### Translation to Polish language for IPS Community Suite (Free):
 - <a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">(BIM) Chatbox+</a>
-- <a href="https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member">[BNS] CJ Duplicate Member Logger</a>
 - (Translation assistance) <a href="https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/">Invision Community</a>
+- <a href="https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member">[BNS] CJ Duplicate Member Logger</a>
+- <a href="https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist">(aXen) Advanced Server List</a>
 
 
 ## I code with:
