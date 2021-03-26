@@ -35,14 +35,14 @@
 
 ## I code with:
 
-| Frontend             | Backend            | Tools               | Packages                                                                                          |
-| -------------------- | ------------------ | ------------------- | ------------------------------------------------------------------------------------------------- |
-| JavaScript           | PHP (Smarty)       | Git                 | [Font Awesome](https://fontawesome.com/)                                                          |
-| React (NextJS)       | NodeJS             | VS Code             | [js-cookie](https://www.npmjs.com/package/js-cookie)                                              |
-| HTML                 | ExpressJS          | IPS Community Suite | [TippyJS](https://atomiks.github.io/tippyjs/)                                                     |
-| CSS / SASS           | MongoDB            | Adobe Photoshop     | [NProgress](https://www.npmjs.com/package/nprogress)                                              |
-| TypeScript           | MySQL / MariaDB    | Adobe Illustrator   | [CKEditor 5](https://ckeditor.com/ckeditor-5/)                                                    |
-| UX / UI              | PostgreSQL (Basic) | Webpack             | [SwiperJS](https://swiperjs.com/)                                                                 |
-| SEO                  | C# (Basic)         |                     | [JSColor](https://jscolor.com/)                                                                   |
-| Jest (Basic)         |                    |                     | [React Hook Form](https://react-hook-form.com/), [React Query](https://react-query.tanstack.com/) |
+| Frontend             | Backend            | Tools               |
+| -------------------- | ------------------ | ------------------- |
+| JavaScript           | PHP (Smarty)       | Git                 |
+| React (NextJS)       | NodeJS             | VS Code             |
+| HTML                 | ExpressJS          | IPS Community Suite |
+| CSS / SASS           | MongoDB            | Adobe Photoshop     |
+| TypeScript           | MySQL / MariaDB    | Adobe Illustrator   |
+| UX / UI              | PostgreSQL (Basic) | Webpack             |
+| SEO                  | C# (Basic)         |                     |
+| Jest (Basic)         |                    |                     |
 | React Native (Basic) |                    |                     |
