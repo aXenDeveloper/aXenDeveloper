@@ -4,6 +4,7 @@
 
 - [(React) Weather app](https://github.com/aXenDeveloper/react-weather)
 - [(Express / React) Recipes app](https://github.com/aXenDeveloper/express-react-recipes)
+- [(Sourcebans++) Fluent Design Theme Edition](https://github.com/aXenDeveloper/sourcebans-web-theme-fluent)
 
 ### Themes for IPS Community Suite (Paid):
 
