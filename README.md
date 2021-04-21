@@ -34,6 +34,7 @@
 - (Translation assistance) [Invision Community](https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/)
 - [[BNS] CJ Duplicate Member Logger](https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member)
 - [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist)
+- [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)
 
 ## I code with:
 
