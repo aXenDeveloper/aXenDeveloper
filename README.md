@@ -5,36 +5,41 @@
 - [(React) Weather app](https://github.com/aXenDeveloper/react-weather)
 - [(Express / React) Recipes app](https://github.com/aXenDeveloper/express-react-recipes)
 - [(Sourcebans++) Fluent Design Theme Edition](https://github.com/aXenDeveloper/sourcebans-web-theme-fluent)
-- [(TypeScript) Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random) - _In progress_
+- [(TypeScript) Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random)
 
-### Themes for IPS Community Suite (Paid):
+### Themes for IPS Community Suite:
 
-- [[Dark / Light] Fluent Design Theme Edition](https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/)
+| Name                                                                                                                                | Price  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[Dark / Light] Fluent Design Theme Edition](https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/) | $34.99 |
 
-### Plugins for IPS Community Suite (Paid):
+### Plugins for IPS Community Suite:
 
-- [(aXen) Article System in Pages](https://invisioncommunity.com/files/file/9490-axen-article-system-in-pages/)
+| Name                                                                                                          | Price  |
+| ------------------------------------------------------------------------------------------------------------- | ------ |
+| [(aXen) Article System in Pages](https://invisioncommunity.com/files/file/9490-axen-article-system-in-pages/) | $10.00 |
+| [(aXen) Secondary Groups Indicator](https://github.com/aXenDeveloper/ips-secondary-groups-indicator)          | Free   |
+| [(aXen) Font Awesome 5 in IPS](https://github.com/aXenDeveloper/ips-fontawesome5)                             | Free   |
+| [(aXen) Group formatting in mention](https://github.com/aXenDeveloper/ips-group-formatting-in-mention)        | Free   |
+| [(aXen) Number of entries Chatbox Free](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox)       | Free   |
+| [(aXen) Number of entries Chatbox+](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus)      | Free   |
+| [(aXen) Administrative bar](https://github.com/aXenDeveloper/ips-administrative-bar)                          | Free   |
 
-### Plugins for IPS Community Suite (Free):
+### Applications for IPS Community Suite:
 
-- [(aXen) Secondary Groups Indicator](https://github.com/aXenDeveloper/ips-secondary-groups-indicator)
-- [(aXen) Font Awesome 5 in IPS](https://github.com/aXenDeveloper/ips-fontawesome5)
-- [(aXen) Group formatting in mention](https://github.com/aXenDeveloper/ips-group-formatting-in-mention)
-- [(aXen) Number of entries Chatbox Free](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox)
-- [(aXen) Number of entries Chatbox+](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus)
-- [(aXen) Administrative bar](https://github.com/aXenDeveloper/ips-administrative-bar)
+| Name                                                                                        | Price |
+| ------------------------------------------------------------------------------------------- | ----- |
+| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist) | Free  |
 
-### Applications for IPS Community Suite (Free):
+### Translation to Polish language for IPS Community Suite:
 
-- [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)
-
-### Translation to Polish language for IPS Community Suite (Free):
-
-- [(BIM) Chatbox+](https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus)
-- (Translation assistance) [Invision Community](https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/)
-- [[BNS] CJ Duplicate Member Logger](https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member)
-- [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist)
-- [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)
+| Name                                                                                                                  | Price |
+| --------------------------------------------------------------------------------------------------------------------- | ----- |
+| [(BIM) Chatbox+](https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus)                                       | Free  |
+| (Translation assistance) [Invision Community](https://forum.invisionize.pl/files/file/701-invision-community-45x-pl/) | Free  |
+| [[BNS] CJ Duplicate Member Logger](https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member)              | Free  |
+| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist)              | Free  |
+| [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)                     | Free  |
 
 ## I code with:
 
