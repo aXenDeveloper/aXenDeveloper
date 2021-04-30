@@ -4,7 +4,7 @@
 
 - [(React) Weather app](https://github.com/aXenDeveloper/react-weather)
 - [(Express / React) Recipes app](https://github.com/aXenDeveloper/express-react-recipes)
-- [(React Native) Advanced To Do List](https://github.com/aXenDeveloper/react-native-advanced-to-do) - _In progress_
+- [(React Native) Basic To Do List](https://github.com/aXenDeveloper/react-native-basic-to-do) - _In progress_
 - [(Sourcebans++) Fluent Design Theme Edition](https://github.com/aXenDeveloper/sourcebans-web-theme-fluent)
 - [(TypeScript) Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random)
 
