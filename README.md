@@ -26,6 +26,7 @@
 | [(aXen) Number of entries Chatbox Free](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox)       | Free   |
 | [(aXen) Number of entries Chatbox+](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus)      | Free   |
 | [(aXen) Administrative bar](https://github.com/aXenDeveloper/ips-administrative-bar)                          | Free   |
+| [(aXen) Full width widget containers](https://github.com/aXenDeveloper/ips-full-width-widget-containers)      | Free   |
 
 ### Applications for IPS Community Suite:
 
