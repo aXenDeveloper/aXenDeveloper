@@ -53,7 +53,7 @@
 | HTML                 | ExpressJS          | IPS Community Suite |
 | CSS / SASS           | MongoDB            | Adobe Photoshop     |
 | TypeScript           | MySQL / MariaDB    | Adobe Illustrator   |
-| UX / UI              | PostgreSQL (Basic) | Webpack             |
-| SEO                  | C# (Basic)         |                     |
+| UX / UI              | PostgreSQL (Basic) | Figma               |
+| SEO                  | C# (Basic)         | Webpack             |
 | Jest (Basic)         |                    |                     |
 | React Native (Basic) |                    |                     |
