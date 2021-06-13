@@ -30,9 +30,10 @@
 
 ### Applications for IPS Community Suite:
 
-| Name                                                                                        | Price |
-| ------------------------------------------------------------------------------------------- | ----- |
-| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist) | Free  |
+| Name                                                                                            | Price  |
+| ----------------------------------------------------------------------------------------------- | ------ |
+| [(aXen) Advanced Members](https://invisioncommunity.com/files/file/9892-axen-advanced-members/) | $19.99 |
+| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)     | Free   |
 
 ### Translation to Polish language for IPS Community Suite:
 
@@ -43,6 +44,7 @@
 | [[BNS] CJ Duplicate Member Logger](https://github.com/aXenDeveloper/ips-lang-polish-cj-duplicate-member)              | Free  |
 | [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist)              | Free  |
 | [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)                     | Free  |
+| [(aXen) Advanced Members](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-members)                     | Free  |
 
 ## I code with:
 
