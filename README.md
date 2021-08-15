@@ -34,6 +34,7 @@
 | Name                                                                                            | Price  |
 | ----------------------------------------------------------------------------------------------- | ------ |
 | [(aXen) Advanced Members](https://invisioncommunity.com/files/file/9892-axen-advanced-members/) | $19.99 |
+| [(aXen) Vacation](https://invisioncommunity.com/files/file/9928-axen-vacation/) **NEW**         | $24.99 |
 | [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)     | Free   |
 
 ### Translation to Polish language for IPS Community Suite:
@@ -46,6 +47,7 @@
 | [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-serverlist)              | Free  |
 | [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)                     | Free  |
 | [(aXen) Advanced Members](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-members)                     | Free  |
+| [(aXen) Vacation](https://github.com/aXenDeveloper/ips-lang-polish-axen-vacation) **NEW**                             | Free  |
 
 ## I code with:
 
