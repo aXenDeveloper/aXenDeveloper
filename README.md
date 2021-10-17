@@ -49,16 +49,16 @@
 | [(aXen) Advanced Members](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-members)                     | Free  |
 | [(aXen) Vacation](https://github.com/aXenDeveloper/ips-lang-polish-axen-vacation) **NEW**                             | Free  |
 
-## I code with:
+## Skills / I code with:
 
-| Frontend             | Backend            | Tools               |
-| -------------------- | ------------------ | ------------------- |
-| JavaScript           | PHP (Smarty)       | Git                 |
-| React (NextJS)       | NodeJS             | VS Code             |
-| HTML                 | ExpressJS          | IPS Community Suite |
-| CSS / SASS           | MongoDB            | Adobe Photoshop     |
-| TypeScript           | MySQL / MariaDB    | Adobe Illustrator   |
-| UX / UI              | PostgreSQL (Basic) | Figma               |
-| SEO                  | C# (Basic)         | Webpack             |
-| Jest (Basic)         |                    |                     |
-| React Native (Basic) |                    |                     |
+| Frontend       | Backend            | Tools               |
+| -------------- | ------------------ | ------------------- |
+| JavaScript     | PHP (Smarty)       | Git                 |
+| React (NextJS) | NodeJS             | VS Code             |
+| HTML           | ExpressJS          | IPS Community Suite |
+| CSS / SASS     | MongoDB            | Adobe Photoshop     |
+| TypeScript     | MySQL / MariaDB    | Adobe Illustrator   |
+| UX / UI        | PostgreSQL (Basic) | Figma               |
+| SEO            | C# (Basic)         | Webpack             |
+| React Native   |                    |                     |
+| Jest (Basic)   |                    |                     |
