@@ -7,6 +7,7 @@
 - [(React Native) Basic To Do List](https://github.com/aXenDeveloper/react-native-basic-to-do)
 - [(Sourcebans++) Fluent Design Theme Edition](https://github.com/aXenDeveloper/sourcebans-web-theme-fluent)
 - [(TypeScript) Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random)
+- [(NextJS) CookingFit App](https://github.com/aXenDeveloper/nextjs-cookingfit)
 
 ### Themes for IPS Community Suite:
 
