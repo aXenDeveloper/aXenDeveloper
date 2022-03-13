@@ -34,7 +34,7 @@
 
 | Name                                                                                               | Price  |
 | -------------------------------------------------------------------------------------------------- | ------ |
-| [(aXen) Content Notes](https://invisioncommunity.com/files/file/10065-axen-content-notes/) **NEW** | $34.99 |
+| [(aXen) Content Notes](https://invisioncommunity.com/files/file/10065-axen-content-notes/) **NEW** | $29.99 |
 | [(aXen) Vacation](https://invisioncommunity.com/files/file/9928-axen-vacation/)                    | $19.99 |
 | [(aXen) Advanced Members](https://invisioncommunity.com/files/file/9892-axen-advanced-members/)    | $19.99 |
 | [(aXen) Font Awesome 6 in IPS](https://github.com/aXenDeveloper/ips-app-fontawesome6) **NEW**      | Free   |
