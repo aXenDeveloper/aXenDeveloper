@@ -2,12 +2,13 @@
 
 ## My projects:
 
-- [(React) Weather app](https://github.com/aXenDeveloper/react-weather)
-- [(Express / React) Recipes app](https://github.com/aXenDeveloper/express-react-recipes)
-- [(React Native) Basic To Do List](https://github.com/aXenDeveloper/react-native-basic-to-do)
-- [(Sourcebans++) Fluent Design Theme Edition](https://github.com/aXenDeveloper/sourcebans-web-theme-fluent)
-- [(TypeScript) Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random)
-- [(NextJS) CookingFit App](https://github.com/aXenDeveloper/nextjs-cookingfit)
+| Name                                                                                                    | Technology                                         | Packages (Front-End)                                                                                                                                                                                                                                                                                 | Packages (Back-End)                                                                                               |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [🌦️ Weather App](https://github.com/aXenDeveloper/react-weather)                                        | **React**, **TypeScript**                          | <ul><li>i18n</li> <li>react-router-dom</li> <li>react-query</li> <li>FontAwesome</li> <li>styled-components</li></ul>                                                                                                                                                                                | -                                                                                                                 |
+| [🍕 Recipes App](https://github.com/aXenDeveloper/express-react-recipes)                                | **React**, **TypeScript**, **NodeJS**, **Express** | <ul><li>react-hook-form</li> <li>react-router-dom</li> <li>react-query</li> <li>FontAwesome</li> <li>SCSS</li> <li>SwiperJS</li> <li>uniqid</li> <li>CKEditor5</li> </ul>                                                                                                                            | <ul><li>bcrypt</li> <li>dotenv</li> <li>jsonwebtoken</li> <li>mongoose</li> <li>multer</li> <li>ts-node</li></ul> |
+| [📑 Basic To Do List](https://github.com/aXenDeveloper/react-native-basic-to-do)                        | **React Native**, **TypeScript**, **Expo**         | <ul><li>styled-components</li> <li>uuid</li> <li>FontAwesome</li> </ul>                                                                                                                                                                                                                              | -                                                                                                                 |
+| [🎮 Apex Legends - Equipment Random](https://github.com/aXenDeveloper/ts-apex-legends-equipment-random) | **TypeScript**, **Webpack**                        | <ul><li>tippy.js</li> <li>scss</li> </ul>                                                                                                                                                                                                                                                            | -                                                                                                                 |
+| [🍔 CookingFit App](https://github.com/aXenDeveloper/nextjs-cookingfit)                                 | **NextJS**, **React**, **TypeScript**, **Figma**   | <ul><li>react-hook-form</li> <li>js-cookie</li> <li>react-query</li> <li>FontAwesome</li> <li>SCSS</li> <li>SwiperJS</li> <li>uniqid</li> <li>CKEditor5</li> <li>react-beautiful-dnd</li> <li>tippy.js</li> <li>nextjs-progressbar</li> <li>i18n</li> <li>next-auth</li> <li>next-connect</li> </ul> | <ul><li>bcrypt</li> <li>dotenv</li> <li>jsonwebtoken</li> <li>mysql</li> <li>multer</li> <li>slugify</li></ul>    |
 
 ### Themes for IPS Community Suite:
 
@@ -53,16 +54,15 @@
 | [(aXen) Vacation](https://github.com/aXenDeveloper/ips-lang-polish-axen-vacation)                                     | Free  |
 | [(aXen) Content Notes](https://github.com/aXenDeveloper/ips-lang-polish-axen-content-notes) **NEW**                   | Free  |
 
-## Skills / I code with:
+## What am I using?:
 
-| Frontend       | Backend            | Tools               |
-| -------------- | ------------------ | ------------------- |
-| JavaScript     | PHP (Smarty)       | Git                 |
-| React (NextJS) | NodeJS             | VS Code             |
-| HTML           | ExpressJS          | IPS Community Suite |
-| CSS / SASS     | MongoDB            | Adobe Photoshop     |
-| TypeScript     | MySQL / MariaDB    | Adobe Illustrator   |
-| UX / UI        | PostgreSQL (Basic) | Figma               |
-| SEO            | C# (Basic)         | Webpack             |
-| React Native   |                    |                     |
-| Jest (Basic)   |                    |                     |
+| Frontend       | Backend           | Tools               | Tests (Code / Speed)  |
+| -------------- | ----------------- | ------------------- | --------------------- |
+| JavaScript     | PHP (Smarty)      | Git                 | Cypress               |
+| React (NextJS) | NodeJS            | VS Code             | Jest                  |
+| HTML           | ExpressJS         | IPS Community Suite | React Testing Library |
+| CSS / SASS     | MongoDB           | Adobe Photoshop     | Lighthouse            |
+| TypeScript     | MySQL / MariaDB   | Adobe Illustrator   | PageSpeed Insight     |
+| UX / UI        | PostgreSQL        | Figma               | BrowserStack          |
+| React Native   | REST/GraphQL APIs | Webpack             | Validator W3C         |
+|                | C# (Basic)        | ESLint              | SEO                   |
