@@ -25,8 +25,6 @@
 | [(aXen) Secondary Groups Indicator](https://github.com/aXenDeveloper/ips-secondary-groups-indicator)          | Free   |
 | [(aXen) Font Awesome 5 in IPS](https://github.com/aXenDeveloper/ips-fontawesome5)                             | Free   |
 | [(aXen) Group formatting in mention](https://github.com/aXenDeveloper/ips-group-formatting-in-mention)        | Free   |
-| [(aXen) Number of entries Chatbox Free](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox)       | Free   |
-| [(aXen) Number of entries Chatbox+](https://github.com/aXenDeveloper/ips-number-of-entries-chatbox-plus)      | Free   |
 | [(aXen) Administrative bar](https://github.com/aXenDeveloper/ips-administrative-bar)                          | Free   |
 | [(aXen) Full width widget containers](https://github.com/aXenDeveloper/ips-full-width-widget-containers)      | Free   |
 | [(aXen) Last activity in Hovercard](https://github.com/aXenDeveloper/ips-lact-activity-in-hovercard)          | Free   |
