@@ -14,7 +14,7 @@
 
 | Name                                                                                                                                | Price  |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [[Dark / Light] Fluent Design Theme Edition](https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/) | $34.99 |
+| [[Dark / Light] Fluent Design Theme Edition](https://invisioncommunity.com/files/file/9539-dark-light-fluent-design-theme-edition/) | $36.99 |
 | [Dynamic Theme](https://github.com/aXenDeveloper/ips-theme-dynamic)                                                                 | Free   |
 
 ### Plugins for IPS Community Suite:
