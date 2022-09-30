@@ -31,13 +31,14 @@
 
 ### Applications for IPS Community Suite:
 
-| Name                                                                                                       | Price  |
-| ---------------------------------------------------------------------------------------------------------- | ------ |
-| [(aXen) Content Notes](https://invisioncommunity.com/files/file/10065-axen-content-notes/) **NEW**         | $29.99 |
-| [(aXen) Vacation](https://invisioncommunity.com/files/file/9928-axen-vacation/)                            | $19.99 |
-| [(aXen) Advanced Members](https://invisioncommunity.com/files/file/9892-axen-advanced-members/)            | $19.99 |
-| [(aXen) Font Awesome 6 in IPS](https://github.com/aXenDeveloper/ips-app-fontawesome6) **NEW**              | Free   |
-| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist) **NEW UPDATE** | Free   |
+| Name                                                                                              | Price  |
+| ------------------------------------------------------------------------------------------------- | ------ |
+| [(aXen) Player Panel](https://invisioncommunity.com/files/file/10065-axen-content-notes/) **NEW** | $59.99 |
+| [(aXen) Content Notes](https://invisioncommunity.com/files/file/10065-axen-content-notes/)        | $29.99 |
+| [(aXen) Vacation](https://invisioncommunity.com/files/file/9928-axen-vacation/)                   | $19.99 |
+| [(aXen) Advanced Members](https://invisioncommunity.com/files/file/9892-axen-advanced-members/)   | $19.99 |
+| [(aXen) Font Awesome 6 in IPS](https://github.com/aXenDeveloper/ips-app-fontawesome6)             | Free   |
+| [(aXen) Advanced Server List](https://github.com/aXenDeveloper/ips-app-advanced-serverlist)       | Free   |
 
 ### Translation to Polish language for IPS Community Suite:
 
@@ -50,7 +51,8 @@
 | [(Adriano Faria) Contact Us](https://github.com/aXenDeveloper/ips-lang-polish-adriano-contact-us)                     | Free  |
 | [(aXen) Advanced Members](https://github.com/aXenDeveloper/ips-lang-polish-axen-advanced-members)                     | Free  |
 | [(aXen) Vacation](https://github.com/aXenDeveloper/ips-lang-polish-axen-vacation)                                     | Free  |
-| [(aXen) Content Notes](https://github.com/aXenDeveloper/ips-lang-polish-axen-content-notes) **NEW**                   | Free  |
+| [(aXen) Content Notes](https://github.com/aXenDeveloper/ips-lang-polish-axen-content-notes)                           | Free  |
+| [(aXen) Player Panel](https://github.com/aXenDeveloper/ips-lang-polish-axen-player-panel) **NEW**                     | Free  |
 
 ## What am I using?:
 
