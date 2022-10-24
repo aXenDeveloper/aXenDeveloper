@@ -60,9 +60,10 @@
 | -------------- | ----------------- | ------------------- | --------------------- |
 | JavaScript     | PHP (Smarty)      | Git                 | Cypress               |
 | React (NextJS) | NodeJS            | VS Code             | Jest                  |
-| HTML           | ExpressJS         | IPS Community Suite | React Testing Library |
-| CSS / SASS     | MongoDB           | Adobe Photoshop     | Lighthouse            |
-| TypeScript     | MySQL / MariaDB   | Adobe Illustrator   | PageSpeed Insight     |
-| UX / UI        | PostgreSQL        | Figma               | BrowserStack          |
-| React Native   | REST/GraphQL APIs | Webpack             | Validator W3C         |
-|                | C# (Basic)        | ESLint              | SEO                   |
+| HTML           | NestJS            | IPS Community Suite | React Testing Library |
+| CSS / SASS     | ExpressJS         | Adobe Photoshop     | Lighthouse            |
+| TypeScript     | MongoDB           | Adobe Illustrator   | PageSpeed Insight     |
+| UX / UI        | MySQL / MariaDB   | Figma               | BrowserStack          |
+| React Native   | PostgreSQL        | Webpack             | Validator W3C         |
+|                | REST/GraphQL APIs | ESLint              | SEO                   |
+|                | C# (Basic)        |                     |                       |
